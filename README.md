@@ -1,6 +1,6 @@
 # IART 2023/2024
 
-## Group A1_50
+## Group A2_50
 | Name                 | Number    | E-Mail            |
 | -------------------- | --------- | ----------------- |
 | Eduardo Oliveira     | 202108690 | up202108690@up.pt |
